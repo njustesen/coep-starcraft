@@ -1,0 +1,30 @@
+ID;Name;Type;Min;Gas;Supply;Build At;Build Time;Requires
+46;Defiler;unit;50;150;2;131;750;142,136
+41;Drone;unit;50;0;1;131;300;
+44;Guardian;unit;150;200;2;43;600;142,137
+38;Hydralisk;unit;75;25;1;131;420;142,135
+50;Infested Terran;unit;100;50;1;130;600;
+43;Mutalisk;unit;100;100;2;131;600;142,141
+42;Overlord;unit;100;0;0;131;600;
+45;Queen;unit;100;100;2;131;750;142,138
+47;Scourge;unit;12;38;0.5;131;450;142,141
+143;Creep Colony;building;75;0;0;;300;142
+144;Spore Colony;building;50;0;0;143;300;139
+146;Sunken Colony;building;50;0;0;143;300;
+39;Ultralisk;unit;200;200;4;131;900;142,14
+37;Zergling;unit;25;0;0.5;131;420;
+62;Devourer;unit;250;150;2;43;600;142,137
+103;Lurker;unit;200;200;2;38;600;142,132
+130;Infested Command Center;building;0;0;0;0;1800;
+131;Hatchery;building;300;0;0;;1800;
+132;Lair;building;150;100;0;131;1500;142
+133;Hive;building;200;150;0;132;1800;138
+134;Nydus Canal;building;150;0;0;;600;133
+135;Hydralisk Den;building;100;50;0;;600;142
+136;Defiler Mound;building;100;100;0;;900;133
+137;Greater Spire;building;100;150;0;;1800;133,141
+138;Queens Nest;building;150;100;0;;900;132
+139;Evolution Chamber;building;75;0;0;;600;131
+140;Ultralisk Cavern;building;150;200;0;;1200;133
+141;Spire;building;200;150;0;;1800;132
+142;Spawning Pool;building;200;0;0;;1200;131

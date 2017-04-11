@@ -1,0 +1,33 @@
+ID;Name;Type;Min;Gas;Supply;Build At;Build Time;Requires
+60;Corsair;unit;150;100;2;167;300;
+61;Dark Templar;unit;125;100;2;160;750;165
+63;Dark Archon;unit;0;0;4;61;300;61
+64;Probe;unit;50;0;1;154;300;
+65;Zealot;unit;100;0;2;160;600;
+66;Dragoon;unit;125;50;2;160;750;164
+67;High Templar;unit;50;150;2;160;750;165
+68;Archon;unit;0;0;4;67;300;
+69;Shuttle;unit;200;0;2;155;900;
+70;Scout;unit;275;125;3;167;1200;
+71;Arbiter;unit;100;300;4;167;2400;170
+72;Carrier;unit;350;250;6;167;2100;169
+73;Interceptor;unit;25;0;0;72;300;
+83;Reaver;unit;200;100;4;155;1050;171
+84;Observer;unit;25;75;1;155;600;159
+85;Scarab;unit;15;0;0;83;105;
+154;Nexus;building;400;0;0;;1800;
+155;Robotics Facility;building;200;200;0;;1200;156,164
+156;Pylon;building;100;0;0;;450;
+157;Assimilator;building;100;0;0;;600;
+159;Observatory;building;50;100;0;;450;156,155
+160;Gateway;building;150;0;0;;900;154,156
+162;Photon Cannon;building;150;0;0;;750;156,166
+163;Citadel of Adun;building;150;100;0;;900;156,164
+164;Cybernetics Core;building;200;0;0;;900;156,160
+165;Templar Archives;building;150;200;0;;900;156,163
+166;Forge;building;150;0;0;;600;154,156
+167;Stargate;building;150;150;0;;1050;156,164
+169;Fleet Beacon;building;300;200;0;;900;156,167
+170;Arbiter Tribunal;building;200;150;0;;900;156,167,165
+171;Robotics Support Bay;building;200;200;0;;450;156,155
+172;Shield Battery;building;100;0;0;;450;156,160

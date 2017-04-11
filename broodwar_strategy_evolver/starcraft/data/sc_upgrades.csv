@@ -1,0 +1,56 @@
+Name;Minerals;Gas;ResearchTime;ResearchedAt
+Terran Infantry Armor;100;100;266;112
+Terran Vehicle Plating;100;100;266;123
+Terran Ship Plating;150;150;266;123
+Zerg Carapace;;;;
+Zerg Flyer Carapace;;;;
+Protoss Ground Armor;100;100;266;166
+Protoss Air Armor;150;150;266;164
+Terran Infantry Weapons;100;100;266;112
+Terran Vehicle Weapons;100;100;266;123
+Terran Ship Weapons;100;100;266;123
+Zerg Melee Attacks;;;;
+Zerg Missile Attacks;;;;
+Zerg Flyer Attacks;;;;
+Protoss Ground Weapons;100;100;266;166
+Protoss Air Weapons;100;100;266;164
+Protoss Plasma Shields;200;200;266;166
+U 238 Shells;150;150;100;112
+Ion Thrusters;100;100;100;120
+Unknown;;;;
+Titan Reactor;150;150;166;116
+Ocular Implants;100;100;166;117
+Moebius Reactor;150;150;166;117
+Apollo Reactor;200;200;166;117
+Colossus Reactor;150;150;166;118
+Ventral Sacs;;;;
+Antennae;;;;
+Pneumatized Carapace;;;;
+Metabolic Boost;;;;
+Adrenal Glands;;;;
+Muscular Augments;;;;
+Grooved Spines;;;;
+Gamete Meiosis;;;;
+Metasynaptic Node;;;;
+Singularity Charge;150;150;166;165
+Leg Enhancements;150;150;133;163
+Scarab Damage;200;200;166;171
+Reaver Capacity;200;200;166;171
+Gravitic Drive;200;200;166;166
+Sensor Array;150;150;133;159
+Gravitic Boosters;150;150;166;159
+Khaydarin Amulet;150;150;166;165
+Apial Sensors;100;100;166;169
+Gravitic Thrusters;200;200;166;166
+Carrier Capacity;100;100;100;169
+Khaydarin Core;150;150;166;170
+Unknown;;;;
+Unknown;;;;
+Argus Jewel;100;100;166;169
+Unknown;;;;
+Argus Talisman;150;150;166;165
+Unknown;;;;
+Caduceus Reactor;150;150;166;112
+Chitinous Plating;;;;
+Anabolic Synthesis;;;;
+Charon Boosters;100;100;133;120

@@ -1,0 +1,33 @@
+Marine
+Ghost
+Vulture
+Goliath
+Siege Tank Tank Mode
+SCV
+Wraith
+Science Vessel
+Dropship
+Battlecruiser
+Vulture Spider Mine
+Nuclear Missile
+Firebat
+Medic
+Valkyrie
+Command Center
+Comsat Station
+Nuclear Silo
+Supply Depot
+Refinery
+Barracks
+Academy
+Factory
+Starport
+Control Tower
+Science Facility
+Covert Ops
+Physics Lab
+Machine Shop
+Engineering Bay
+Missile Turret
+Bunker
+Armory

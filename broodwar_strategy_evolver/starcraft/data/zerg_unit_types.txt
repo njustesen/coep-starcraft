@@ -1,0 +1,34 @@
+Larva;Unit
+Egg;Unit
+Zergling;Unit
+Hydralisk;Unit
+Ultralisk;Unit
+Broodling;Unit
+Drone;Unit
+Overlord;Unit
+Mutalisk;Unit
+Guardian;Unit
+Queen;Unit
+Defiler;Unit
+Scourge;Unit
+Infested Terran;Unit
+Cocoon;Unit
+Devourer;Unit
+Lurker Egg;Unit
+Infested Command Center;Building
+Hatchery;Building
+Lair;Building
+Hive;Building
+Nydus Canal;Building
+Hydralisk Den;Building
+Defiler Mound;Building
+Greater Spire;Building
+Queens Nest;Building
+Evolution Chamber;Building
+Ultralisk Cavern;Building
+Spire;Building
+Spawning Pool;Building
+Creep Colony;Building
+Spore Colony;Building
+Sunken Colony;Building
+Extractor;Building

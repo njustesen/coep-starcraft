@@ -1,0 +1,32 @@
+Corsair
+Dark Templar
+Dark Archon
+Probe
+Zealot
+Dragoon
+High Templar
+Archon
+Shuttle
+Scout
+Arbiter
+Carrier
+Interceptor
+Reaver
+Observer
+Scarab
+Nexus
+Robotics Facility
+Pylon
+Assimilator
+Observatory
+Gateway
+Photon Cannon
+Citadel of Adun
+Cybernetics Core
+Templar Archives
+Forge
+Stargate
+Fleet Beacon
+Arbiter Tribunal
+Robotics Support Bay
+Shield Battery

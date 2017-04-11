@@ -1,0 +1,34 @@
+Larva
+Egg
+Zergling
+Hydralisk
+Ultralisk
+Broodling
+Drone
+Overlord
+Mutalisk
+Guardian
+Queen
+Defiler
+Scourge
+Infested Terran
+Cocoon
+Devourer
+Lurker Egg
+Infested Command Center
+Hatchery
+Lair
+Hive
+Nydus Canal
+Hydralisk Den
+Defiler Mound
+Greater Spire
+Queens Nest
+Evolution Chamber
+Ultralisk Cavern
+Spire
+Spawning Pool
+Creep Colony
+Spore Colony
+Sunken Colony
+Extractor

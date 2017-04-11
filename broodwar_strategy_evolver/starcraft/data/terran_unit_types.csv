@@ -1,0 +1,34 @@
+ID;Name;Type;Min;Gas;Supply;Build At;Build Time;Requires
+0;Marine;unit;50;0;1;111;360;
+1;Ghost;unit;25;75;1;111;750;112,116,117
+2;Vulture;unit;75;0;2;113;450;
+3;Goliath;unit;100;50;2;113;600;123
+5;Siege Tank Tank Mode;unit;150;100;2;113;750;120
+7;SCV;unit;50;0;1;106;300;
+8;Wraith;unit;150;100;2;114;900;
+9;Science Vessel;unit;100;225;2;114;1200;116
+11;Dropship;unit;100;100;2;114;750;114,115
+12;Battlecruiser;unit;400;300;6;114;2000;113,114,115,116,118
+13;Vulture Spider Mine;unit;0;0;0;-;1;
+14;Nuclear Missile;unit;200;200;8;108;1500;108
+32;Firebat;unit;50;25;1;111;360;112
+34;Medic;unit;50;25;1;111;450;112
+58;Valkyrie;unit;250;125;3;114;750;114,115,123
+106;Command Center;building;400;0;0;;1800;
+107;Comsat Station;add-on;50;50;0;106;600;106,112
+108;Nuclear Silo;add-on;100;100;0;106;1200;106,116,117
+109;Supply Depot;building;100;0;0;;600;
+110;Refinery;building;100;0;0;;600;
+111;Barracks;building;150;0;0;;1200;106
+112;Academy;building;150;0;0;;1200;111
+113;Factory;building;200;100;0;;1200;106,111
+114;Starport;building;150;100;0;;1050;107,106,113
+115;Control Tower;add-on;50;50;0;114;600;114
+116;Science Facility;building;100;150;0;;900;113,114
+117;Covert Ops;add-on;50;50;0;116;600;106,116
+118;Physics Lab;add-on;50;50;0;116;600;106,116
+120;Machine Shop;add-on;50;50;0;113;600;106,113
+122;Engineering Bay;building;125;0;0;;900;106
+124;Missile Turret;building;75;0;0;;450;122
+125;Bunker;building;100;0;0;;450;111
+123;Armory;building;100;50;0;;1200;113

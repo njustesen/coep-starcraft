@@ -1,0 +1,228 @@
+0;Terran Marine
+1;Terran Ghost
+2;Terran Vulture
+3;Terran Goliath
+4;Terran Goliath Turret
+5;Terran Siege Tank Tank Mode
+6;Terran Siege Tank Tank Mode Turret
+7;Terran SCV
+8;Terran Wraith
+9;Terran Science Vessel
+10;Hero Gui Montag
+11;Terran Dropship
+12;Terran Battlecruiser
+13;Terran Vulture Spider Mine
+14;Terran Nuclear Missile
+15;Terran Civilian
+16;Hero Sarah Kerrigan
+17;Hero Alan Schezar
+18;Hero Alan Schezar Turret
+19;Hero Jim Raynor Vulture
+20;Hero Jim Raynor Marine
+21;Hero Tom Kazansky
+22;Hero Magellan
+23;Hero Edmund Duke Tank Mode
+24;Hero Edmund Duke Tank Mode Turret
+25;Hero Edmund Duke Siege Mode
+26;Hero Edmund Duke Siege Mode Turret
+27;Hero Arcturus Mengsk
+28;Hero Hyperion
+29;Hero Norad II
+30;Terran Siege Tank Siege Mode
+31;Terran Siege Tank Siege Mode Turret
+32;Terran Firebat
+33;Spell Scanner Sweep
+34;Terran Medic
+35;Zerg Larva
+36;Zerg Egg
+37;Zerg Zergling
+38;Zerg Hydralisk
+39;Zerg Ultralisk
+40;Zerg Broodling
+41;Zerg Drone
+42;Zerg Overlord
+43;Zerg Mutalisk
+44;Zerg Guardian
+45;Zerg Queen
+46;Zerg Defiler
+47;Zerg Scourge
+48;Hero Torrasque
+49;Hero Matriarch
+50;Zerg Infested Terran
+51;Hero Infested Kerrigan
+52;Hero Unclean One
+53;Hero Hunter Killer
+54;Hero Devouring One
+55;Hero Kukulza Mutalisk
+56;Hero Kukulza Guardian
+57;Hero Yggdrasill
+58;Terran Valkyrie
+59;Zerg Cocoon
+60;Protoss Corsair
+61;Protoss Dark Templar
+62;Zerg Devourer
+63;Protoss Dark Archon
+64;Protoss Probe
+65;Protoss Zealot
+66;Protoss Dragoon
+67;Protoss High Templar
+68;Protoss Archon
+69;Protoss Shuttle
+70;Protoss Scout
+71;Protoss Arbiter
+72;Protoss Carrier
+73;Protoss Interceptor
+74;Hero Dark Templar
+75;Hero Zeratul
+76;Hero Tassadar Zeratul Archon
+77;Hero Fenix Zealot
+78;Hero Fenix Dragoon
+79;Hero Tassadar
+80;Hero Mojo
+81;Hero Warbringer
+82;Hero Gantrithor
+83;Protoss Reaver
+84;Protoss Observer
+85;Protoss Scarab
+86;Hero Danimoth
+87;Hero Aldaris
+88;Hero Artanis
+89;Critter Rhynadon
+90;Critter Bengalaas
+91;Special Cargo Ship
+92;Special Mercenary Gunship
+93;Critter Scantid
+94;Critter Kakaru
+95;Critter Ragnasaur
+96;Critter Ursadon
+97;Zerg Lurker Egg
+98;Hero Raszagal
+99;Hero Samir Duran
+100;Hero Alexei Stukov
+101;Special Map Revealer
+102;Hero Gerard DuGalle
+103;Zerg Lurker
+104;Hero Infested Duran
+105;Spell Disruption Web
+106;Terran Command Center
+107;Terran Comsat Station
+108;Terran Nuclear Silo
+109;Terran Supply Depot
+110;Terran Refinery
+111;Terran Barracks
+112;Terran Academy
+113;Terran Factory
+114;Terran Starport
+115;Terran Control Tower
+116;Terran Science Facility
+117;Terran Covert Ops
+118;Terran Physics Lab
+119;Unused Terran1
+120;Terran Machine Shop
+121;Unused Terran2
+122;Terran Engineering Bay
+123;Terran Armory
+124;Terran Missile Turret
+125;Terran Bunker
+126;Special Crashed Norad II
+127;Special Ion Cannon
+128;Powerup Uraj Crystal
+129;Powerup Khalis Crystal
+130;Zerg Infested Command Center
+131;Zerg Hatchery
+132;Zerg Lair
+133;Zerg Hive
+134;Zerg Nydus Canal
+135;Zerg Hydralisk Den
+136;Zerg Defiler Mound
+137;Zerg Greater Spire
+138;Zerg Queens Nest
+139;Zerg Evolution Chamber
+140;Zerg Ultralisk Cavern
+141;Zerg Spire
+142;Zerg Spawning Pool
+143;Zerg Creep Colony
+144;Zerg Spore Colony
+145;Unused Zerg1
+146;Zerg Sunken Colony
+147;Special Overmind With Shell
+148;Special Overmind
+149;Zerg Extractor
+150;Special Mature Chrysalis
+151;Special Cerebrate
+152;Special Cerebrate Daggoth
+153;Unused Zerg2
+154;Protoss Nexus
+155;Protoss Robotics Facility
+156;Protoss Pylon
+157;Protoss Assimilator
+158;Unused Protoss1
+159;Protoss Observatory
+160;Protoss Gateway
+161;Unused Protoss2
+162;Protoss Photon Cannon
+163;Protoss Citadel of Adun
+164;Protoss Cybernetics Core
+165;Protoss Templar Archives
+166;Protoss Forge
+167;Protoss Stargate
+168;Special Stasis Cell Prison
+169;Protoss Fleet Beacon
+170;Protoss Arbiter Tribunal
+171;Protoss Robotics Support Bay
+172;Protoss Shield Battery
+173;Special Khaydarin Crystal Form
+174;Special Protoss Temple
+175;Special XelNaga Temple
+176;Resource Mineral Field
+177;Resource Mineral Field Type 2
+178;Resource Mineral Field Type 3
+179;Unused Cave
+180;Unused Cave In
+181;Unused Cantina
+182;Unused Mining Platform
+183;Unused Independant Command Center
+184;Special Independant Starport
+185;Unused Independant Jump Gate
+186;Unused Ruins
+187;Unused Khaydarin Crystal Formation
+188;Resource Vespene Geyser
+189;Special Warp Gate
+190;Special Psi Disrupter
+191;Unused Zerg Marker
+192;Unused Terran Marker
+193;Unused Protoss Marker
+194;Special Zerg Beacon
+195;Special Terran Beacon
+196;Special Protoss Beacon
+197;Special Zerg Flag Beacon
+198;Special Terran Flag Beacon
+199;Special Protoss Flag Beacon
+200;Special Power Generator
+201;Special Overmind Cocoon
+202;Spell Dark Swarm
+203;Special Floor Missile Trap
+204;Special Floor Hatch
+205;Special Upper Level Door
+206;Special Right Upper Level Door
+207;Special Pit Door
+208;Special Right Pit Door
+209;Special Floor Gun Trap
+210;Special Wall Missile Trap
+211;Special Wall Flame Trap
+212;Special Right Wall Missile Trap
+213;Special Right Wall Flame Trap
+214;Special Start Location
+215;Powerup Flag
+216;Powerup Young Chrysalis
+217;Powerup Psi Emitter
+218;Powerup Data Disk
+219;Powerup Khaydarin Crystal
+220;Powerup Mineral Cluster Type 1
+221;Powerup Mineral Cluster Type 2
+222;Powerup Protoss Gas Orb Type 1
+223;Powerup Protoss Gas Orb Type 2
+224;Powerup Zerg Gas Sac Type 1
+225;Powerup Zerg Gas Sac Type 2
+226;Powerup Terran Gas Tank Type 1
+227;Powerup Terran Gas Tank Type 2
