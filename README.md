@@ -1,4 +1,4 @@
-# Continual Online Evolutionary Planning for in-game build order search in StarCraft: Brood War
+# Continual Online Evolutionary Planning for In-Game Build Order Adaptation in StarCraft
 
 ## Brood War Strategy Server
 This project uses the Django framework to provide build order interface for StarCraft bots in Python. The bot must implement the client side API. An example of a bot implementing this is UAlbertaBot: https://github.com/njustesen/ualbertabot. 
