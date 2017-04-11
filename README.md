@@ -1,13 +1,16 @@
 # Brood War Strategy Server
-This is a web server written in Python using the Django framework to provide build order search for StarCraft bots. The bot must implement the client side API. An example of a bot implementing this is UAlbertaBot: https://github.com/njustesen/ualbertabot. 
+This project uses the Django framework to provide build order interface for StarCraft bots in Python. The bot must implement the client side API. An example of a bot implementing this is UAlbertaBot: https://github.com/njustesen/ualbertabot. 
 
-## How to run
-- Clone repository into some directory <bss-dir>
-- Clone the Brood War Strategy Evolver https://github.com/njustesen/broodwar_strategy_evolver into <bss-dir>
+## How to run the server
+- Clone repository into some directory <coep-dir>
 - Install Python 3 or later. Make sure to setup environment path for python.
 - Install numpy and django. E.g. using pip.
-- In a terminal goto <bss-dir>/http_server/ and run "python manage.py runserver 0.0.0.0:8000"
+- In a terminal goto <coep-dir>/http_server/ and run "python manage.py runserver 0.0.0.0:8000"
 - You should be able to connect to the server using a browser. Try http://localhost:8000/app/probe/ - which always returns the syntax for a probe.
+
+## Continual Online Evolutionary Planning
+- To use Continual Online Evolutionary Planning (COEP) for you bot, simply start the server and point the bot client to http://localhost:8000/app/update/ and used the API described below. https://github.com/njustesen/ualbertabot already implements the API.
+- To manipulate with the heuristic used by the evolution, edit the file https://github.com/njustesen/coep-starcraft/blob/master/broodwar_strategy_evolver/starcraft/data/unit_heuristics_8.csv and https://github.com/njustesen/coep-starcraft/blob/master/broodwar_strategy_evolver/starcraft/data/tech_upgrades_heuristics.csv. Details can be found in our paper. Link will appear soon.
 
 ## API
 - app/update/
